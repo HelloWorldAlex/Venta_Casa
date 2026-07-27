@@ -146,6 +146,7 @@ header h1 {
     display: inline-flex;
     align-items: center;
     justify-content: center;
+    gap: 10px;
     background: #25d366;
     color: white;
     padding: 12px 25px;
@@ -155,6 +156,10 @@ header h1 {
     font-size: 1.1rem;
     margin-top: 15px;
     box-shadow: 0 4px 10px rgba(37, 211, 102, 0.3);
+    max-width: 100%;
+    box-sizing: border-box;
+    text-align: center;
+    word-break: break-word;
 }
 
 .btn-whatsapp:hover {
@@ -164,7 +169,8 @@ header h1 {
 .whatsapp-icon {
     width: 24px;
     height: 24px;
-    margin-right: 10px;
+    flex-shrink: 0;
+    margin-right: 0; /* Sustituido por el gap del flexbox para mayor prolijidad */
 }
 
 .phone {
