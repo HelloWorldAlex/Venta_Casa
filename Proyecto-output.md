@@ -1,0 +1,607 @@
+# 📁 PROJECT EXPORT FOR LLMs
+
+## 📊 Project Information
+
+- **Project Name**: `Proyecto`
+- **Generated On**: 2026-08-06 19:31:25 (America/Bogota / GMT-05:00)
+- **Total Files Processed**: 28
+- **Export Tool**: Easy Whole Project to Single Text File for LLMs v1.1.0
+- **Tool Author**: Jota / José Guilherme Pandolfi
+
+### ⚙️ Export Configuration
+
+| Setting | Value |
+|---------|-------|
+| Language | `en` |
+| Max File Size | `1 MB` |
+| Include Hidden Files | `false` |
+| Output Format | `both` |
+
+## 🌳 Project Structure
+
+```
+├── 📁 Imagen/
+│   ├── 📁 primero/
+│   │   ├── 📄 11.jpg (34.78 KB)
+│   │   ├── 📄 12.jpg (30.79 KB)
+│   │   ├── 📄 13.jpg (28.4 KB)
+│   │   ├── 📄 14.jpg (26.63 KB)
+│   │   ├── 📄 15.jpg (37.37 KB)
+│   │   ├── 📄 16.jpg (36.21 KB)
+│   │   ├── 📄 17.jpg (31.72 KB)
+│   │   ├── 📄 18.jpg (19.87 KB)
+│   │   └── 📄 19.jpg (90.33 KB)
+│   ├── 📁 segundo/
+│   │   ├── 📄 21.jpg (22.38 KB)
+│   │   ├── 📄 210.jpg (29.11 KB)
+│   │   ├── 📄 22.jpg (21.05 KB)
+│   │   ├── 📄 23.jpg (26.21 KB)
+│   │   ├── 📄 24.jpg (18.27 KB)
+│   │   ├── 📄 25.jpg (30.44 KB)
+│   │   ├── 📄 26.jpg (21.99 KB)
+│   │   ├── 📄 27.jpg (33.09 KB)
+│   │   ├── 📄 28.jpg (33.12 KB)
+│   │   └── 📄 29.jpg (17.4 KB)
+│   ├── 📁 tercero/
+│   │   ├── 📄 31.jpg (49.01 KB)
+│   │   └── 📄 32.jpg (59.04 KB)
+│   ├── 📄 conjunto.png (1.26 MB)
+│   ├── 📄 fondo.jpg (2.26 MB)
+│   ├── 📄 ico.png (11.75 KB)
+│   └── 📄 w.png (29.05 KB)
+├── 📄 index.html (7.52 KB)
+├── 📄 script.js (807 B)
+└── 📄 style.css (4.21 KB)
+```
+
+## 📑 Table of Contents
+
+**Project Files:**
+
+- [📄 index.html](#📄-index-html)
+- [📄 script.js](#📄-script-js)
+- [📄 style.css](#📄-style-css)
+
+---
+
+## 📈 Project Statistics
+
+| Metric | Count |
+|--------|-------|
+| Total Files | 28 |
+| Total Directories | 4 |
+| Text Files | 3 |
+| Binary Files | 25 |
+| Total Size | 4.24 MB |
+
+### 📄 File Types Distribution
+
+| Extension | Count |
+|-----------|-------|
+| `.jpg` | 22 |
+| `.png` | 3 |
+| `.html` | 1 |
+| `.js` | 1 |
+| `.css` | 1 |
+
+## 💻 File Code Contents
+
+## 🚫 Binary/Excluded Files
+
+The following files were not included in the text content:
+
+- `Imagen/primero/11.jpg`
+- `Imagen/primero/12.jpg`
+- `Imagen/primero/13.jpg`
+- `Imagen/primero/14.jpg`
+- `Imagen/primero/15.jpg`
+- `Imagen/primero/16.jpg`
+- `Imagen/primero/17.jpg`
+- `Imagen/primero/18.jpg`
+- `Imagen/primero/19.jpg`
+
+## 🚫 Binary/Excluded Files
+
+The following files were not included in the text content:
+
+- `Imagen/segundo/21.jpg`
+- `Imagen/segundo/210.jpg`
+- `Imagen/segundo/22.jpg`
+- `Imagen/segundo/23.jpg`
+- `Imagen/segundo/24.jpg`
+- `Imagen/segundo/25.jpg`
+- `Imagen/segundo/26.jpg`
+- `Imagen/segundo/27.jpg`
+- `Imagen/segundo/28.jpg`
+- `Imagen/segundo/29.jpg`
+
+## 🚫 Binary/Excluded Files
+
+The following files were not included in the text content:
+
+- `Imagen/tercero/31.jpg`
+- `Imagen/tercero/32.jpg`
+
+## 🚫 Binary/Excluded Files
+
+The following files were not included in the text content:
+
+- `Imagen/conjunto.png`
+- `Imagen/fondo.jpg`
+- `Imagen/ico.png`
+- `Imagen/w.png`
+
+### <a id="📄-index-html"></a>📄 `index.html`
+
+**File Info:**
+- **Size**: 7.52 KB
+- **Extension**: `.html`
+- **Language**: `html`
+- **Location**: `index.html`
+- **Relative Path**: `root`
+- **Created**: 2026-08-06 18:51:18 (America/Bogota / GMT-05:00)
+- **Modified**: 2026-08-06 19:31:25 (America/Bogota / GMT-05:00)
+- **MD5**: `f96a617d52de21a8dc386c83bd90ee62`
+- **SHA256**: `e74faeea15a745dcfcd9217533cc3167fb424186dd6aafec7fc07ce0421beabf`
+- **Encoding**: UTF-8
+
+**File code content:**
+
+```html
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Se Vende Casa de 3 Pisos - San Mateo Soacha</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="container">
+        <header>
+            <h1>¡SE VENDE CASA 14 DE 3 PISOS!</h1>
+            <p class="subtitle">Único dueño • Ubicada en Conjunto S3 Central, San Mateo - Soacha</p>
+            <p class="location">Con parqueadero privado dentro de la casa, recién remodelada.</p>
+        </header>
+
+        <!-- Fotografía principal -->
+        <div class="image-container">
+            <img src="Imagen/conjunto.png" alt="Casa de 3 pisos San Mateo Soacha" class="house-photo">
+        </div>
+
+        <div style="text-align: center;">
+            <div class="price-tag">$280.000.000 (Negociables)</div>
+        </div>
+
+        <!-- Detalles de la Propiedad -->
+        <section class="card">
+            <h2>📋 Detalles de la Propiedad</h2>
+            <ul>
+                <li><strong>Área total del lote:</strong> 210.25 m²</li>
+                <li><strong>Administración mensual (Celaduría):</strong> $22.000</li>
+                <li><strong>Garaje:</strong> Privado cubierto para carro y moto.</li>
+            </ul>
+        </section>
+
+        <!-- Distribución y Acabados por Pisos -->
+        <section class="card">
+            <h2>🏠 Distribución y Acabados por Pisos</h2>
+            <ul>
+                <li><strong>Primer Piso:</strong> Garaje privado cubierto para carro y moto. 1 habitación, cocina integral, 1 baño, patio con lavadero y zona de lavadora, clóset para productos de aseo, con posibilidad de ser arrendada como apartaestudio independiente. Totalmente en cerámica, cocina enchapada y baño todo en obra blanca, con techo en PVC y luces LED.</li>
+                <li><strong>Segundo Piso:</strong> 4 habitaciones, cocina integral y 1 baño. Totalmente remodelado en porcelanato, techo en PVC y luces LED, pasillo en Insolux con excelente iluminación.</li>
+                <li><strong>Tercer Piso (Terraza):</strong> En obra negra. Zona de lavadero y de tendido de ropas, terraza cubierta con ventanas en policarbonato atrás y techo en tejas. Con posibilidad de seguir construyendo al 4to piso.</li>
+            </ul>
+        </section>
+
+        <!-- Ubicación y Entorno -->
+        <section class="card">
+            <h2>📍 Ubicación y Entorno</h2>
+            <p>Ubicada por la transversal 9na con calle 11 este, llegando a la 30ta. Cerca de zonas comerciales (panaderías, gimnasio, restaurantes, colegios, comidas rápidas y mercado). Muy cerca de la avenida de la 9na donde pasan buses hacia Soacha o Bogotá.</p>
+            <a href="https://maps.app.goo.gl/WrFy53Sg7nfnqyEm9" target="_blank" class="map-link">Ver ubicación exacta en Google Maps</a>
+        </section>
+
+        <!-- Galería de Fotos Interactiva con Pestañas -->
+        <section class="card gallery-card">
+            <h2>📸 Galería de Fotos por Pisos</h2>
+            <p style="text-align: center; color: #666; margin-bottom: 20px;">Haz clic en cada piso para ver sus respectivas fotografías:</p>
+            
+            <div class="floor-tabs">
+                <button class="tab-btn active" onclick="showFloor('primero', this)">Primer Piso</button>
+                <button class="tab-btn" onclick="showFloor('segundo', this)">Segundo Piso</button>
+                <button class="tab-btn" onclick="showFloor('tercero', this)">Tercer Piso</button>
+            </div>
+
+            <!-- Primer Piso Fotos -->
+            <div id="primero" class="floor-content active-floor">
+                <h3>Primer Piso</h3>
+                <div class="image-gallery">
+                    <img src="Imagen/primero/11.jpg" alt="Primer Piso - Foto 1" loading="lazy">
+                    <img src="Imagen/primero/12.jpg" alt="Primer Piso - Foto 2" loading="lazy">
+                    <img src="Imagen/primero/13.jpg" alt="Primer Piso - Foto 3" loading="lazy">
+                    <img src="Imagen/primero/14.jpg" alt="Primer Piso - Foto 4" loading="lazy">
+                    <img src="Imagen/primero/15.jpg" alt="Primer Piso - Foto 5" loading="lazy">
+                    <img src="Imagen/primero/16.jpg" alt="Primer Piso - Foto 6" loading="lazy">
+                    <img src="Imagen/primero/17.jpg" alt="Primer Piso - Foto 7" loading="lazy">
+                    <img src="Imagen/primero/18.jpg" alt="Primer Piso - Foto 8" loading="lazy">
+                    <img src="Imagen/primero/19.jpg" alt="Primer Piso - Foto 9" loading="lazy">
+                </div>
+            </div>
+
+            <!-- Segundo Piso Fotos -->
+            <div id="segundo" class="floor-content">
+                <h3>Segundo Piso</h3>
+                <div class="image-gallery">
+                    <img src="Imagen/segundo/21.jpg" alt="Segundo Piso - Foto 1" loading="lazy">
+                    <img src="Imagen/segundo/22.jpg" alt="Segundo Piso - Foto 2" loading="lazy">
+                    <img src="Imagen/segundo/23.jpg" alt="Segundo Piso - Foto 3" loading="lazy">
+                    <img src="Imagen/segundo/24.jpg" alt="Segundo Piso - Foto 4" loading="lazy">
+                    <img src="Imagen/segundo/25.jpg" alt="Segundo Piso - Foto 5" loading="lazy">
+                    <img src="Imagen/segundo/26.jpg" alt="Segundo Piso - Foto 6" loading="lazy">
+                    <img src="Imagen/segundo/27.jpg" alt="Segundo Piso - Foto 7" loading="lazy">
+                    <img src="Imagen/segundo/28.jpg" alt="Segundo Piso - Foto 8" loading="lazy">
+                    <img src="Imagen/segundo/29.jpg" alt="Segundo Piso - Foto 9" loading="lazy">
+                    <img src="Imagen/segundo/210.jpg" alt="Segundo Piso - Foto 10" loading="lazy">
+                </div>
+            </div>
+
+            <!-- Tercer Piso Fotos -->
+            <div id="tercero" class="floor-content">
+                <h3>Tercer Piso (Terraza)</h3>
+                <div class="image-gallery">
+                    <img src="Imagen/tercero/31.jpg" alt="Tercer Piso - Foto 1" loading="lazy">
+                    <img src="Imagen/tercero/32.jpg" alt="Tercer Piso - Foto 2" loading="lazy">
+                </div>
+            </div>
+        </section>
+
+        <!-- Condiciones de Visitas -->
+        <section class="card alert-card">
+            <h2>⚠️ Condiciones de Visitas</h2>
+            <ul>
+                <li><strong>Visitas:</strong> Se muestra solo fines de semana con cita previa en el Conjunto S3 Central (Casa 14).</li>
+                <li><strong>Norma de seguridad:</strong> Solo se permite el ingreso de 1 persona por motivos de seguridad del conjunto. Agradecemos su comprensión.</li>
+            </ul>
+        </section>
+
+        <!-- Contacto -->
+        <section class="card contact-card">
+            <h2>📞 Contacto y Agendamiento</h2>
+            <p>Para agendar tu visita, ten en cuenta que <strong>solo fines de semana se atiende con cita previa</strong>.</p>
+            <a href="https://wa.me/573183506160?text=Hola,%20estoy%20interesado%20en%20la%20casa%20en%20San%20Mateo%20Soacha" target="_blank" class="btn-whatsapp">
+                Escribir por WhatsApp para Agendar Cita
+            </a>
+            <p style="margin-top: 15px;">
+                <span class="phone">3183506160</span><br>
+                <small>Agencia de Bienes Raíces</small>
+            </p>
+        </section>
+
+        <footer>
+            <p>&copy; 2026 - Venta de Casa San Mateo Soacha &nbsp;|&nbsp; Visitas: <span id="visitor-count">...</span></p>
+        </footer>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
+```
+
+---
+
+### <a id="📄-script-js"></a>📄 `script.js`
+
+**File Info:**
+- **Size**: 807 B
+- **Extension**: `.js`
+- **Language**: `javascript`
+- **Location**: `script.js`
+- **Relative Path**: `root`
+- **Created**: 2026-07-27 21:31:21 (America/Bogota / GMT-05:00)
+- **Modified**: 2026-08-06 19:20:38 (America/Bogota / GMT-05:00)
+- **MD5**: `4ae34b8b03ad71365aa1d6592ce655dc`
+- **SHA256**: `96bce619aa62de8615d699461fa2325c6a01333c9afaaf9c60ffc1b845ab0718`
+- **Encoding**: ASCII
+
+**File code content:**
+
+```javascript
+fetch('https://api.counterapi.dev/v1/sindy-ramos-team-4844/visitas/up')
+    .then(response => response.json())
+    .then(data => {
+        document.getElementById('visitor-count').textContent = data.count;
+    })
+    .catch(error => {
+        console.error('Error al cargar el contador:', error);
+        document.getElementById('visitor-count').textContent = '---';
+    });
+
+function showFloor(floorId, button) {
+    const floors = document.querySelectorAll('.floor-content');
+    floors.forEach(floor => {
+        floor.classList.remove('active-floor');
+    });
+
+    const buttons = document.querySelectorAll('.tab-btn');
+    buttons.forEach(btn => {
+        btn.classList.remove('active');
+    });
+
+    document.getElementById(floorId).classList.add('active-floor');
+    button.classList.add('active');
+}
+```
+
+---
+
+### <a id="📄-style-css"></a>📄 `style.css`
+
+**File Info:**
+- **Size**: 4.21 KB
+- **Extension**: `.css`
+- **Language**: `css`
+- **Location**: `style.css`
+- **Relative Path**: `root`
+- **Created**: 2026-07-26 20:59:50 (America/Bogota / GMT-05:00)
+- **Modified**: 2026-08-06 19:20:14 (America/Bogota / GMT-05:00)
+- **MD5**: `a4a908914746315063c436ffe358302f`
+- **SHA256**: `e11d805870302808961ca60fd2f09ac81268f0a19e3106638369640d4529d5dc`
+- **Encoding**: ASCII
+
+**File code content:**
+
+```css
+body {
+    background-color: #f7f4ee;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    color: #333;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    background: #ffffff;
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.05);
+}
+
+header {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+header h1 {
+    color: #d32f2f;
+    font-size: 2.2rem;
+    margin-bottom: 5px;
+}
+
+.subtitle {
+    font-size: 1.1rem;
+    color: #555;
+    font-weight: bold;
+}
+
+.location {
+    color: #1976d2;
+    font-weight: bold;
+    margin-top: 5px;
+}
+
+.image-container {
+    margin: 20px 0;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+.house-photo {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.price-tag {
+    font-size: 1.8rem;
+    color: #2e7d32;
+    font-weight: bold;
+    margin: 15px 0;
+    display: inline-block;
+    padding: 8px 20px;
+    border: 2px dashed #2e7d32;
+    border-radius: 30px;
+    background: #f1f8e9;
+    transition: all 0.3s ease;
+    cursor: pointer;
+}
+
+.price-tag:hover {
+    box-shadow: 0 0 20px rgba(46, 125, 50, 0.45);
+    background-color: #e8f5e9;
+    transform: translateY(-2px);
+}
+
+.card {
+    background: #fff;
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.02);
+}
+
+.card h2 {
+    color: #2c3e50;
+    font-size: 1.3rem;
+    border-bottom: 2px solid #f0f0f0;
+    padding-bottom: 8px;
+    margin-top: 0;
+}
+
+.card ul {
+    padding-left: 20px;
+}
+
+.card li {
+    margin-bottom: 10px;
+    line-height: 1.5;
+}
+
+.alert-card {
+    border-left: 5px solid #d32f2f;
+    background-color: #fff9f9;
+}
+
+.warning {
+    color: #c62828;
+    font-weight: bold;
+}
+
+.map-link, .btn-photos {
+    display: inline-block;
+    margin-top: 10px;
+    color: #1976d2;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.map-link:hover, .btn-photos:hover {
+    text-decoration: underline;
+}
+
+.btn-photos {
+    background: #1976d2;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-align: center;
+    display: block;
+}
+
+.btn-photos:hover {
+    background: #115293;
+    text-decoration: none;
+}
+
+.contact-card {
+    background: #e3f2fd;
+    border: 1px solid #bbdefb;
+    text-align: center;
+}
+
+.btn-whatsapp {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    background: #25d366;
+    color: white;
+    padding: 12px 25px;
+    border-radius: 30px;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 1.1rem;
+    margin-top: 15px;
+    box-shadow: 0 4px 10px rgba(37, 211, 102, 0.3);
+    max-width: 100%;
+    box-sizing: border-box;
+    text-align: center;
+    word-break: break-word;
+}
+
+.btn-whatsapp:hover {
+    background: #20ba5a;
+}
+
+.whatsapp-icon {
+    width: 24px;
+    height: 24px;
+    flex-shrink: 0;
+    margin-right: 0;
+}
+
+.phone {
+    font-size: 1.8rem;
+    color: #2e7d32;
+    font-weight: bold;
+}
+
+footer {
+    text-align: center;
+    color: #7f8c8d;
+    font-size: 0.9rem;
+    border-top: 1px solid #e0e0e0;
+    margin-top: 30px;
+}
+
+.floor-tabs {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-bottom: 20px;
+    flex-wrap: wrap;
+}
+
+.tab-btn {
+    background-color: #f1f2f6;
+    border: 2px solid #dcdde1;
+    padding: 10px 20px;
+    font-size: 1rem;
+    font-weight: bold;
+    color: #2f3640;
+    border-radius: 25px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.tab-btn:hover {
+    background-color: #dfe4ea;
+}
+
+.tab-btn.active {
+    background-color: #2f3640;
+    color: #fff;
+    border-color: #2f3640;
+}
+
+.floor-content {
+    display: none;
+}
+
+.floor-content.active-floor {
+    display: block;
+    animation: fadeIn 0.5s ease;
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(5px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+.image-gallery {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+    gap: 12px;
+    margin-top: 15px;
+}
+
+.image-gallery img {
+    width: 100%;
+    height: 110px;
+    object-fit: cover;
+    border-radius: 6px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    transition: transform 0.3s ease;
+    cursor: pointer;
+}
+
+.image-gallery img:hover {
+    transform: scale(1.05);
+}
+```
+
+---
+
