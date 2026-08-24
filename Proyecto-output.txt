@@ -5,7 +5,7 @@ PROJECT EXPORT FOR LLMs
 PROJECT INFORMATION:
 --------------------------------------------------
 Project Name: Proyecto
-Generated On: 2026-08-06 19:31:25 (America/Bogota / GMT-05:00)
+Generated On: 2026-08-24 18:52:37 (America/Bogota / GMT-05:00)
 Total Files Processed: 28
 Export Tool: Easy Whole Project to Single Text File for LLMs v1.1.0
 Tool Author: Jota / José Guilherme Pandolfi
@@ -134,9 +134,9 @@ Language: html
 Location: index.html
 Relative Path: root
 Created: 2026-08-06 18:51:18 (America/Bogota / GMT-05:00)
-Modified: 2026-08-06 19:31:25 (America/Bogota / GMT-05:00)
-MD5: f96a617d52de21a8dc386c83bd90ee62
-SHA256: e74faeea15a745dcfcd9217533cc3167fb424186dd6aafec7fc07ce0421beabf
+Modified: 2026-08-24 18:52:37 (America/Bogota / GMT-05:00)
+MD5: 760de71206daea0fc914ebd7925fe3ce
+SHA256: d0c3ed34e0f8509a286444de77e63c05ff24c928bafb93e94f81a0ae387cf026
 Encoding: UTF-8
 
 FILE CONTENT:
@@ -164,7 +164,7 @@ FILE CONTENT:
         </div>
 
         <div style="text-align: center;">
-            <div class="price-tag">$280.000.000 (Negociables)</div>
+            <div class="price-tag">$265.000.000 (Negociables)</div>
         </div>
 
         <!-- Detalles de la Propiedad -->
