@@ -248,3 +248,10 @@ footer {
 .image-gallery img:hover {
     transform: scale(1.05);
 }
+
+/*contador de visitas */
+#visitor-count {
+    display: inline-block;
+    min-width: 15px;
+    font-weight: bold;
+}
